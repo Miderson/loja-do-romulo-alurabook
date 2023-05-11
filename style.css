@@ -1,0 +1,7 @@
+:root{
+    --cor-do-fundo:rgb(133, 118, 79);
+}
+
+body{
+    background-color: (--cor-do-fundo);
+}
