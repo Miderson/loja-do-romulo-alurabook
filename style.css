@@ -3,5 +3,5 @@
 }
 
 body{
-    background-color: (--cor-do-fundo);
+    background-color: var(--cor-do-fundo);
 }
