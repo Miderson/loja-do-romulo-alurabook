@@ -1,0 +1,16 @@
+@import url("style/header.css");
+
+:root{
+    --cor-do-fundo:rgb(133, 118, 79);
+    --cor-antiga:rgb(250, 235, 215);
+}
+
+body{
+    background-color: var(--cor-do-fundo);
+}
+.cabeca{
+    background-color:var(--cor-antiga);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
