@@ -1,8 +1,10 @@
 @import url("style/header.css");
 
 :root{
-    --cor-do-fundo:rgb(133, 118, 79);
-    --cor-antiga:rgb(250, 235, 215);
+    --cor-do-fundo:#85764f;
+    --cor-antiga:#faebd7;
+    --cor-laranja-titulo:#f1ac3d;
+    --cor-azul-gradient: linear-gradient(#74caf2,#9bbecf,#7b7f81);
 }
 
 body{

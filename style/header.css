@@ -20,9 +20,30 @@
     display: none;
     position: absolute;
     top: 100%;
+    width: 60vw;
+
 
 }
 
 .container__botao:checked~.lista-menu{
     display: block;
+}
+
+.lista-menu__titulo,
+.lista-menu__item{
+    padding: 1em;
+    background-color: var(--cor-antiga);
+
+}
+
+.lista-menu__titulo{
+    color: var(--cor-laranja-titulo);
+}
+
+.lista-menu__link{
+    background: var(--cor-azul-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-transform: uppercase;
 }
