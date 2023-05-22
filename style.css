@@ -5,10 +5,14 @@
     --cor-antiga:#faebd7;
     --cor-laranja-titulo:#f1ac3d;
     --cor-azul-gradient: linear-gradient(#74caf2,#9bbecf,#7b7f81);
+    --fonte-principal:'Golos Text', sans-serif;
 }
 
 body{
     background-color: var(--cor-do-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
 }
 .cabeca{
     background-color:var(--cor-antiga);
