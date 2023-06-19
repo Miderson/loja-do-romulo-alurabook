@@ -9,6 +9,8 @@
     --cor-amarelo-titulo:#e3dd28;
     --cor-azul-gradient: linear-gradient(#74caf2,#15516e,#316c8a);
     --fonte-principal:'Golos Text', sans-serif;
+    --preto:#000000;
+    --vermelho:#ff0000;
 }
 
 body{
