@@ -15,10 +15,4 @@ body{
     font-size: 16px;
     font-weight: 400;
 }
-.cabeca{
-    background-color:var(--cor-antiga);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    position: relative;
-}
+

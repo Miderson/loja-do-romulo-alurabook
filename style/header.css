@@ -1,10 +1,18 @@
 .cabeca__menu-burguer{
-    width: 40px;
-    height: 40px;
+    width: 24px;
+    height: 24px;
     background-image: url("../img/Menu.svg");
     background-repeat: no-repeat;
     background-position: center;
     display: inline-block;
+}
+
+.cabeca{
+    background-color:var(--cor-antiga);
+    display: flex;
+    justify-content: space-between;
+    
+    position: relative;
 }
 
 .container{
