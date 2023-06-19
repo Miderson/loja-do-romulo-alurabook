@@ -1,0 +1,6 @@
+    .banner{
+        background: var(--cor-azul-gradient);
+        color: var(--cor-laranja-titulo);
+        text-align: center;
+
+    }

@@ -1,10 +1,11 @@
 @import url("style/header.css");
+@import url("style/banner.css");
 
 :root{
     --cor-do-fundo:#85764f;
     --cor-antiga:#faebd7;
     --cor-laranja-titulo:#f1ac3d;
-    --cor-azul-gradient: linear-gradient(#74caf2,#9bbecf,#7b7f81);
+    --cor-azul-gradient: linear-gradient(#74caf2,#15516e,#316c8a);
     --fonte-principal:'Golos Text', sans-serif;
 }
 
